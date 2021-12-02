@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/socloudyapp-2021/static/css/main.fb32b7a5.chunk.css",
+    "main.js": "/socloudyapp-2021/static/js/main.24d59868.chunk.js",
+    "main.js.map": "/socloudyapp-2021/static/js/main.24d59868.chunk.js.map",
+    "runtime-main.js": "/socloudyapp-2021/static/js/runtime-main.9d2c7578.js",
+    "runtime-main.js.map": "/socloudyapp-2021/static/js/runtime-main.9d2c7578.js.map",
+    "static/js/2.0492ec9a.chunk.js": "/socloudyapp-2021/static/js/2.0492ec9a.chunk.js",
+    "static/js/2.0492ec9a.chunk.js.map": "/socloudyapp-2021/static/js/2.0492ec9a.chunk.js.map",
+    "static/js/3.97cbedc5.chunk.js": "/socloudyapp-2021/static/js/3.97cbedc5.chunk.js",
+    "static/js/3.97cbedc5.chunk.js.map": "/socloudyapp-2021/static/js/3.97cbedc5.chunk.js.map",
+    "index.html": "/socloudyapp-2021/index.html",
+    "static/css/main.fb32b7a5.chunk.css.map": "/socloudyapp-2021/static/css/main.fb32b7a5.chunk.css.map",
+    "static/js/2.0492ec9a.chunk.js.LICENSE.txt": "/socloudyapp-2021/static/js/2.0492ec9a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d2c7578.js",
+    "static/js/2.0492ec9a.chunk.js",
+    "static/css/main.fb32b7a5.chunk.css",
+    "static/js/main.24d59868.chunk.js"
+  ]
+}
