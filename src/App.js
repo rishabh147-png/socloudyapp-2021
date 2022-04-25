@@ -226,6 +226,7 @@ function App() {
                 className="card-img"
                 alt="..."
               />
+              <h1 className='text-dark'>SoCloUdY</h1>
               <h4
                 className="card-text "
                 style={{
